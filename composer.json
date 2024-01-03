@@ -1,0 +1,18 @@
+{
+  "name": "vendor_name/instagram-scraper",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "paquette",
+      "email": "info@paquette.codes"
+    }
+  ],
+  "require": {
+    "php": ">=8.0.21",
+    "guzzlehttp/guzzle": "7.8.*",
+    "tracy/tracy": "v2.10.5",
+    "ext-json": "*"
+  }
+}
